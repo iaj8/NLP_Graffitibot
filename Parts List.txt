@@ -1,0 +1,35 @@
+Set Up Instructions
+
+Parts
+- 2 3d printed pulley stands (dont have)
+- 1 3d printed drawing head (dont have)
+- Pen/Marker
+- String (dont have)
+- 2 stepper motors
+- Servo
+- Laser cut part for servo (dont have)
+- Part that connects servo to laser cut part (dont have)
+- 2 Stepper Drivers
+- 1 photon/controller of some sort
+- 2 100 microfarad capacitors
+- 1 10 microfarad capacitor
+- isolator thingy with 3 pins
+- 1 more capacitor
+
+
+A1 - RED 
+A2 - GRN 
+B1 - YEL 
+B2 - BLU
+
+Driver 1:
+BLU - BLU
+PURPLE - YEL
+GRAY - RED
+GRN - GRN
+
+Driver 2:
+BROWN - BLU
+YEL - YEL
+RED - RED
+ORANGE - GRN
