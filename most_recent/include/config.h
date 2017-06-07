@@ -33,7 +33,7 @@
 #define ARC_CW          (1)
 #define ARC_CCW         (-1)
 // Arcs are split into many line segments.  How long are the segments?
-#define MM_PER_SEGMENT  (20)
+#define MM_PER_SEGMENT  (10)
 
 
 //------------------------------------------------------------------------------

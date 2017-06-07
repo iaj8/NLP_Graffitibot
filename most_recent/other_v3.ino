@@ -223,7 +223,7 @@ void regularArcInstruction(float angle1, float angle2, float theta, float cx,flo
     line(nx,ny);
   }
 
-  /*line(x,y);*/
+  line(x,y);
 }
 
 void reverseArcInstruction(float angle1, float angle2, float theta, float cx,float cy,float x,float y,float dir, float radius){
